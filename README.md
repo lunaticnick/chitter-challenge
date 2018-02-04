@@ -13,6 +13,14 @@ Chitter is a Twitter clone that allows users to post messages in a public stream
 Check user_stories.md for an overview of the project requirements, by clicking [here](./00_supplementary_files/user_stories.md)
 
 ## How to install
+
+First you need to clone the depository on your local machine. To do so, please open your favourite CLI and use the following commands:
+
+```
+git clone git@github.com:lunaticnick/makersacademy-mcw04-chitter-challenge.git local_directory_name
+cd local_directory_name
+```
+
 All required gems can be installed by running ``` $ bundle install``` via your preferred terminal.
 
 Please make sure that you have bundler installed for the above to work correctly. Bundler can be installed by running ``` $ gem install bundler ``` via your preferred terminal.
